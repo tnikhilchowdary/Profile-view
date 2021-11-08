@@ -1,0 +1,26 @@
+.banner{
+    background-color: #4d00ff;
+    color:white;
+    
+    text-align: center;
+    padding:100px 0px;
+}
+#image{
+    height: 100px;
+    width:100px;
+}
+#tnc{
+    color:#4d00ff;
+    font-size:100px;
+   
+}
+.bold{
+    font-weight:bold;
+}
+.bg-color{
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
